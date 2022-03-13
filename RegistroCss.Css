@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(150deg, #ffffff, #9b989e);
+    height: 100vh;
+    padding-bottom: 80em;
+    align-items: center;
+    
+}
+.registro
+{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    box-shadow: 7px 13px 37px black;
+    text-align: center;
+}
+
+.registro h4
+{
+    font-size: 26px;
+    margin-bottom: 22px;
+
+}
+.controls
+{
+   width: 100%;
+   background: #24303c ; 
+   padding: 10px;
+   border-radius: 4px;
+   margin-bottom: 16px;
+   border: 1px solid white;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+
+}
+.registro p{
+    height: 40px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 40px;
+
+}
+.registro a{
+    color: white;
+    text-decoration: none;
+}
+.registro a:hover
+{
+    color: white;
+    text-decoration: underline;
+}
+.registro .boton
+{
+    width: 100%;
+    background-color: rgb(78, 78, 163);
+    border: none;
+    padding: 12px ;
+    color: white;
+    margin: 16px 0;
+    font-size: 20px;
+    border-radius: 6px;
+    cursor: pointer;
+
+}
+

@@ -1,0 +1,48 @@
+ p
+{
+    margin: 2em 0;
+    font-size: 150%;
+}
+/* CREO EL BOTON DE LA SEGUNDA APARTADO */
+.boton
+{
+    border: 2px solid rgb(252, 252, 252);
+    color: aliceblue;
+    padding: 0.6em 3.5em;
+    text-decoration: none;
+    border-radius: 50px;
+    font-size: 0.9em;
+}
+/*  */
+
+/* PRIMERA FRANJA */
+.banner02
+{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    background-color: rgba(241,101,41,255);
+    background-position: center;
+}
+.banner03
+{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    background-color: rgba(9,100,157,255);
+    background-position: center;
+
+}
+
+.banner02_description
+{
+    width: 90%;
+    max-width: 1000px;
+    display: block;
+    margin: auto;
+    font-size: 20px;
+}
+/*COLOR DEL PRIMER TITULO*/
